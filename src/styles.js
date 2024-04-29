@@ -13,6 +13,7 @@ export const Container = styled.div`
 export const Content = styled.div`
   background-color: #FFFFFF;
   width: 30%;
+  box-shadow: 4px 6px 20px 0px #00000054;
 `
 
 export const Row = styled.div`
